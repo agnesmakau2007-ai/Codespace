@@ -3,8 +3,14 @@
 <head>
     <title>My First Code</title>
 </head>
-<body>
+
+<body style="background-color:lightblue; text-align:center;">
+
     <h1>Hello World!</h1>
-    <p>This is my first HTML code on GitHub Codespaces 🚀</p>
+
+    <p>This is my first HTML code on GitHub.</p>
+
+    <button>Click Me</button>
+
 </body>
 </html>
